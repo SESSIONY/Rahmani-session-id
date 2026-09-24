@@ -1,14 +1,14 @@
 {
-  "description": "Bmb Tech Session Id",
-  "main": "./bmb.js",
+  "description": "Rahmani Tech Session Id",
+  "main": "./toputech.js",
   "engines": {
     "npm": ">=9.7.2",
     "node": ">=20.0.0"
   },
   "scripts": {
-    "start": "node bmb.js"
+    "start": "node toputech.js"
   },
-  "author": "bmbtech",
+  "author": "toputech",
   "license": "GPL-3.0",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:bmbsession-baileys@^1.0.0",
